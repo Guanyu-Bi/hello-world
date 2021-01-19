@@ -1,5 +1,1 @@
-# hello-world
-Just another repository
-
-# some comments here
-Which branch I used here?? Not sure
+I am editing the README file. Adding some more details about the project description.
